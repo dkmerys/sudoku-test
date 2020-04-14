@@ -40,6 +40,7 @@ ESLint
 | :------------- | :------------- | :------------- |
 | **Verify that a number has been input** | User Input:"a" | Output: "Invalid Entry" |
 | **Verify that a number between 1 and 9 was input** | User Input:"10" | Output: "Invalid Entry" |
+| **Number is added to game board** | User Input:"9" | Output: "9" |
 | **Verify that a number between 1 and 9 was input without repeats for a row** | User Input:"2, 2" | Output: "Invalid Entry" |
 | **Verify that a number between 1 and 9 was input without repeats for a column** | User Input:"2, 2" | Output: "Invalid Entry" |
 | **Verify that a number between 1 and 9 was input without repeats for a grid** | User Input:"2, 2" | Output: "Invalid Entry" |
